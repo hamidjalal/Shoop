@@ -62,11 +62,7 @@ namespace infrastructure.Repository
 
         public bool UpdateCategore(MCategore Categore)
         {
-            var Update = _IMap.Map<Categore>(Categore);
-            _Context.categores.Update(Update);
-            _Context.SaveChanges();
-            return true;
-
+            throw new NotImplementedException();
         }
     }
 }
