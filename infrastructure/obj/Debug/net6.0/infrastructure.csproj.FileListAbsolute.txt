@@ -1,0 +1,17 @@
+C:\Users\MY ASUS\Desktop\Shoop\infrastructure\bin\Debug\net6.0\infrastructure.deps.json
+C:\Users\MY ASUS\Desktop\Shoop\infrastructure\bin\Debug\net6.0\infrastructure.dll
+C:\Users\MY ASUS\Desktop\Shoop\infrastructure\bin\Debug\net6.0\ref\infrastructure.dll
+C:\Users\MY ASUS\Desktop\Shoop\infrastructure\bin\Debug\net6.0\infrastructure.pdb
+C:\Users\MY ASUS\Desktop\Shoop\infrastructure\obj\Debug\net6.0\infrastructure.csproj.AssemblyReference.cache
+C:\Users\MY ASUS\Desktop\Shoop\infrastructure\obj\Debug\net6.0\infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MY ASUS\Desktop\Shoop\infrastructure\obj\Debug\net6.0\infrastructure.AssemblyInfoInputs.cache
+C:\Users\MY ASUS\Desktop\Shoop\infrastructure\obj\Debug\net6.0\infrastructure.AssemblyInfo.cs
+C:\Users\MY ASUS\Desktop\Shoop\infrastructure\obj\Debug\net6.0\infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\MY ASUS\Desktop\Shoop\infrastructure\obj\Debug\net6.0\infrastructure.dll
+C:\Users\MY ASUS\Desktop\Shoop\infrastructure\obj\Debug\net6.0\ref\infrastructure.dll
+C:\Users\MY ASUS\Desktop\Shoop\infrastructure\obj\Debug\net6.0\infrastructure.pdb
+C:\Users\MY ASUS\Desktop\Shoop\infrastructure\bin\Debug\net6.0\infrastructure.runtimeconfig.json
+C:\Users\MY ASUS\Desktop\Shoop\infrastructure\obj\Debug\net6.0\infrastructure.genruntimeconfig.cache
+C:\Users\MY ASUS\Desktop\Shoop\infrastructure\bin\Debug\net6.0\Core.dll
+C:\Users\MY ASUS\Desktop\Shoop\infrastructure\bin\Debug\net6.0\Core.pdb
+C:\Users\MY ASUS\Desktop\Shoop\infrastructure\obj\Debug\net6.0\infrastructure.csproj.CopyComplete
