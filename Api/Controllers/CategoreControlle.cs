@@ -33,9 +33,36 @@ public class CategoreControlle : ControllerBase
         }
     }
     [HttpPost]
-    public IActionResult UpdateCategore(MCategore Categore)
+    public List<MCategore> ShowActiveStatus()
     {
-        var Add = _ICategore.UpdateCategore(Categore);
-        return Ok(Add);
+        return _ICategore.ShowActiveStatus();
+    }
+    [HttpPost]
+    public List<MCategore> ShowChildCategory(int id)
+    {
+        return _ICategore.ShowChildCategore(id);
+    }
+    [HttpPost]
+    public List<MCategore> ShowDeActiveStatus()
+    {
+        return _ICategore.ShowDeActiveStatus();
+    }
+    [HttpPost]
+    public MCategore ShowParentCategory(int id)
+    {
+        return _ICategore.ShowParentCategore(id);
+    }
+    [HttpPost]
+    public string UpdateCategory(MCategore category)
+    {
+        var result = _ICategore.UpdateCategore(category);
+        if (result)
+        {
+            return "عملیات با موفقیت انجام شد";
+        }
+        else
+        {
+            return "این آیدی وجود ندارد";
+        }
     }
 }
